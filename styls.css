@@ -1,0 +1,9 @@
+body {
+    background-image: url(bgg.jpg);
+    background-size: cover;
+}
+
+#webb {
+    font-size: 100px;
+    text-align: center;
+}
